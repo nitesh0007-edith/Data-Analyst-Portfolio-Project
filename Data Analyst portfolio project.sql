@@ -154,3 +154,5 @@ where d.continent is not null
 --order by 1,2
 
 --drop view PercentPopulationVaccinated
+
+select * from PercentPopulationVaccinated
